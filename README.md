@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreamelStudio&show_icons=true&theme=transparent&line_height=21)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heyasu7393)](https://solved.ac/heyasu7393)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heyasu7393)](https://solved.ac/profile/heyasu7393)
 
 # 💻 Skill
 ## Languages
