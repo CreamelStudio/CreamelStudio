@@ -1,5 +1,5 @@
 # Welcome || Creamel Studio Github
-
+[![CreamelStudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreamelStudio)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heyasu7393)](https://solved.ac/profile/heyasu7393)
 
 # 💻 Skill
