@@ -1,6 +1,6 @@
 # Welcome || Creamel Studio Github
-![GitHub Stats](https://github-readme-stats-eight-sigma-29.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true)
-![Top Langs](https://github-readme-stats-eight-sigma-29.vercel.app/api/top-langs?username=YOUR_GITHUB_ID&layout=compact)
+![GitHub Stats](https://github-readme-stats-eight-sigma-29.vercel.app/api?username=CreamelStudio&show_icons=true)
+![Top Langs](https://github-readme-stats-eight-sigma-29.vercel.app/api/top-langs?username=CreamelStudio&layout=compact)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heyasu7393)](https://solved.ac/profile/heyasu7393)
 
 # 💻 Skill
